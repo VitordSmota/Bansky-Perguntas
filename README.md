@@ -7,4 +7,6 @@ NodeJS, Express.js, Sequelize, MySQL, Bootstrap e EJS.
 
 ![2023-01-17_10h39_15](https://user-images.githubusercontent.com/86672122/212921751-dd65578d-7641-4414-b5ba-d7eb43dd5dfd.gif)
 <img width="161" alt="image" src="https://user-images.githubusercontent.com/86672122/212922424-1ee53107-0a03-4945-8cdd-0fb206b7af8e.png">
+<img width="328" alt="image" src="https://user-images.githubusercontent.com/86672122/212922557-3e29a9b0-8bd3-45fd-819a-f3723362e690.png">
+
 
