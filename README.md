@@ -6,12 +6,15 @@ NodeJS, Express.js, Sequelize, MySQL, Bootstrap e EJS.
 * Usando como contexto a Exposição The Art of Banksy: “Without Limits”, que está acontecendo no período  01/02 a 30/04/2023. 
 
 ![2023-01-17_10h39_15](https://user-images.githubusercontent.com/86672122/212921751-dd65578d-7641-4414-b5ba-d7eb43dd5dfd.gif)
+
+## Visualização parcial do ambiente: 
+
 <img width="161" alt="image" src="https://user-images.githubusercontent.com/86672122/212922424-1ee53107-0a03-4945-8cdd-0fb206b7af8e.png">
 <img width="328" alt="image" src="https://user-images.githubusercontent.com/86672122/212922557-3e29a9b0-8bd3-45fd-819a-f3723362e690.png">
 <img width="298" alt="image" src="https://user-images.githubusercontent.com/86672122/212922703-a0229631-7e3b-4a73-a334-e8e1a9a90aad.png">
 
-MySQL Workbench
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/86672122/212922879-89b7ad2e-fd11-4715-8c13-3cc223c7e036.png">
+## MySQL Workbench: 
+
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/86672122/212923021-075fddd8-1325-4146-a5b3-82555e9c0361.png">
 
 
