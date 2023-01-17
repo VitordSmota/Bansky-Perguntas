@@ -11,7 +11,8 @@ NodeJS, Express.js, Sequelize, MySQL, Bootstrap e EJS.
 <img width="298" alt="image" src="https://user-images.githubusercontent.com/86672122/212922703-a0229631-7e3b-4a73-a334-e8e1a9a90aad.png">
 
 MySQL Workbench
-<img width="1" alt="image" src="https://user-images.githubusercontent.com/86672122/212922879-89b7ad2e-fd11-4715-8c13-3cc223c7e036.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/86672122/212922879-89b7ad2e-fd11-4715-8c13-3cc223c7e036.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/86672122/212923021-075fddd8-1325-4146-a5b3-82555e9c0361.png">
 
 
 
