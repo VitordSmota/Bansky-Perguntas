@@ -1,0 +1,67 @@
+:root{
+    --red-bansky: #7f0c12;
+    --white-bansky: #f5f5f5;
+    --gold-bansky: #b1864a;
+}
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: var(--white-bansky);
+   
+}
+.nav-header {
+  position: fixed;
+  top:0;
+  left: 0;
+  height: 12vh;
+  width: 100vw;
+background: rgb(127,12,18);
+background: linear-gradient(180deg, rgba(127,12,18,1) 11%, rgba(134,27,32,1) 27%, rgba(166,89,93,1) 47%, rgba(170,96,100,1) 59%, rgba(177,110,114,1) 71%, rgba(245,245,245,1) 90%);
+
+}
+.nav-footer {
+    position: fixed;
+    bottom: 0;
+    height: 12vh;
+    width: 100%;
+    background: rgb(127,12,18);
+background: linear-gradient(0deg, rgba(127,12,18,1) 11%, rgba(134,27,32,1) 27%, rgba(166,89,93,1) 47%, rgba(170,96,100,1) 59%, rgba(177,110,114,1) 71%, rgba(245,245,245,1) 90%);}
+h1{
+    color:#7f0c12;
+}
+.perguntaTitulo{
+    color:#7f0c12;
+}
+.newbtn{
+    background: var(--red-bansky);
+}
+
+.img-logo{
+    border-radius: 71%;
+    border: 2px solid ;
+    border-style: dotted ;
+    margin-left: 2vmax; 
+    width: 5vmax;
+    height: 5vmax;
+    margin-bottom: 2vmax;
+    
+}
+.btn-bansky{
+    background-color: rgba(166,89,93,1) ;
+    color: white;
+   border-color: white;
+
+}
+.btn-bansky:hover{
+    background-color: #7f0c12;
+    color: white;
+    border-color: black;
+}
+p{
+    margin-left: 2vmax;
+}
+.container {
+    margin-top: 15vmax !important;
+}
