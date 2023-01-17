@@ -6,3 +6,5 @@ NodeJS, Express.js, Sequelize, MySQL, Bootstrap e EJS.
 * Usando como contexto a Exposição The Art of Banksy: “Without Limits”, que está acontecendo no período  01/02 a 30/04/2023. 
 
 ![2023-01-17_10h39_15](https://user-images.githubusercontent.com/86672122/212921751-dd65578d-7641-4414-b5ba-d7eb43dd5dfd.gif)
+<img width="161" alt="image" src="https://user-images.githubusercontent.com/86672122/212922424-1ee53107-0a03-4945-8cdd-0fb206b7af8e.png">
+
