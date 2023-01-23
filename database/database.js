@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 
-const connection = new Sequelize('training-guiaPerguntas', 'root', 'Trivo!cdc@1.sap', {
+const connection = new Sequelize('training-guiaPerguntas', 'root', 'XXXXXXXXXXX', {
     host: 'localhost',
     dialect: 'mysql'
 });
